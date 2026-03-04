@@ -19,7 +19,7 @@ Atualmente, foco meu desenvolvimento no ecossistema **Python, Data Science e Gen
 - **Santander 2025** - Ciência de Dados com Python (DIO)
 - **LuizaLabs** - Backend com Python (DIO)
 - **Embaixador DIO Campus Expert** - Educação impulsionada por IA
-
+- **Bradesco GenAI** - Inteligência Artificial Generativa
 ---
 
 ### 🤝 Vamos nos conectar?
