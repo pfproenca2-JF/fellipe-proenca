@@ -9,8 +9,8 @@ Atualmente, foco meu desenvolvimento no ecossistema **Python, Data Science e Gen
 ### 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Python (Data Science e Backend)
 - **IA & Dados:** Generative AI, LLMs, Engenharia de Prompt, Análise Preditiva
-- **Ferramentas:** Git, GitHub, Excel Avançado, SQL
-- **Idiomas:** Inglês voltado para TI
+- **Ferramentas:** Git, GitHub, Excel, SQL
+- **Idiomas:** Estudando Inglês voltado para TI
 
 ---
 
