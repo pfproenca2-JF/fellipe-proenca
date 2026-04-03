@@ -3,8 +3,6 @@ name: Update Profile README
 on:
   issues:
     types: [opened]
-  push:
-    branches: [main]
   workflow_dispatch:
 
 jobs:
