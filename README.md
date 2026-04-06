@@ -1,5 +1,5 @@
 # Engenheiro de Computação em Formação 🎓
-# Bombeiro Militar há 15 anos 🚒
+# Bombeiro Militar 🚒
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pfproenca2-JF/pfproenca2-JF/main/doom.gif" alt="DOOM Gameplay Loop" width="480">
